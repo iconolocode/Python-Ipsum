@@ -1,0 +1,13 @@
+==> cobra <==
+Cobra is a name given to a subset of the snakes in the Elapidae family, with the exception of the false water cobra, which is not in this family.
+All cobras are venomous.
+
+==> python <==
+The pythons are a family of snakes.
+Pythons are nonvenomous.
+Pythons can be found in Africa, Asia and Australia.
+
+==> viper <==
+Vipers are a family of snakes.
+Vipers are venomous.
+Vipers can be found on every continent except for Antartica.
